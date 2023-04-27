@@ -1,3 +1,5 @@
+# PoliStats was written by Sean Ranieri, Endrit Berberi, and Joshua Thomas. All work has been our own unless otherwise stated
+
 from tkinter import *
 from tkinter import ttk
 import pandas as pd
