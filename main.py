@@ -11,7 +11,7 @@ data.head()
 # Some of this code was taken from this video: https://www.youtube.com/watch?v=0WafQCaok6g
 
 
-# To show sample scatterplot block of code
+# To show sample scatterplot, uncomment this block of code
 # xcol = 'Alabama_CountyPopulation'
 # ycol = 'Alabama_dem'
 # data[xcol] = data[xcol].astype(str)
